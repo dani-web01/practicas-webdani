@@ -1,0 +1,29 @@
+/*documento css*/
+* { font-size: 18px;}
+
+body {background: rgb(236, 223, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+h1, h3, h6 { color: blueviolet;
+}
+
+h2, h5 {color: blue;}
+
+h4 {color: black;}
+
+h1 {text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+   }
+
+.warning {color: rgb(226, 43, 202);}
+
+.imagen {float: left;
+margin-right: 20px}
+
+.contenido {font-weight: 300;
+            line-height: 2em;
+            border-bottom: 30px double black;}
+

@@ -1,0 +1,18 @@
+*{
+    padding: 2%;
+    margin: 0;
+}
+
+  .items{
+      width: 100px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding: 8px;
+      display: flex;
+      flex-direction: wrap;
+  }
+ 
+  
+
+
+
